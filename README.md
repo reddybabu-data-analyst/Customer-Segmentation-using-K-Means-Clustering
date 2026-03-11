@@ -139,7 +139,7 @@ project-folder
 
 1. Clone the repository
 
-git clone 
+git clone https://github.com/reddybabu-data-analyst/Customer-Segmentation-using-K-Means-Clustering/tree/main
 
 2. Install required libraries
 
@@ -161,6 +161,6 @@ jupyter notebook
 
 ## Author
 
-Your Name
+Reddy babu V
 
 If you like this project, feel free to ⭐ the repository.
