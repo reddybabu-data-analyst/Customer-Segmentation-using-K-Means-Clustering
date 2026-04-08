@@ -139,8 +139,6 @@ project-folder
 
 1. Clone the repository
 
-git clone https://github.com/reddybabu-data-analyst/Customer-Segmentation-using-K-Means-Clustering/tree/main
-
 2. Install required libraries
 
 pip install -r requirements.txt
