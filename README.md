@@ -161,6 +161,6 @@ jupyter notebook
 
 ## Author
 
-Reddy babu V
+pavani
 
 If you like this project, feel free to ⭐ the repository.
